@@ -1,4 +1,4 @@
 # Releases
 
-Litrally releases
+Literally releases
 
