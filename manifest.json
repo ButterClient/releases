@@ -1,0 +1,10 @@
+{
+  "formatVersion": 1,
+  "gameVersion": "1.21.11",
+  "clientVersion": "4d95a8d2840d28daf50ecc47a2f332d152bfa95e",
+  "date": "2026-01-17T12:45:48Z",
+  "patch": {
+    "url": "https://github.com/ButterClient/releases/download/bpatch-4d95a8d2840d28daf50ecc47a2f332d152bfa95e/butterclient-4d95a8d2840d28daf50ecc47a2f332d152bfa95e.bpatch",
+    "sha256": "022470d66f1e49aaa8f01a6dde5b19f3426220524137919be8efef1174128e03"
+  }
+}
