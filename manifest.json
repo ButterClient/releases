@@ -1,10 +1,10 @@
 {
   "formatVersion": 1,
   "gameVersion": "1.21.11",
-  "clientVersion": "83e3b42076b4847b6c514b4bfc1c0addc62f91f0",
-  "date": "2026-01-18T09:41:36Z",
+  "clientVersion": "620746343a4bc84a9dab2618f48e5a3e79c58a80",
+  "date": "2026-01-18T10:04:25Z",
   "patch": {
-    "url": "https://github.com/ButterClient/releases/releases/download/bpatch-83e3b42076b4847b6c514b4bfc1c0addc62f91f0/butterclient-83e3b42076b4847b6c514b4bfc1c0addc62f91f0.bpatch",
-    "sha256": "86576fed028740d3159cca6fc0929668b9ead3405521e6c067bd919c753be414"
+    "url": "https://github.com/ButterClient/releases/releases/download/bpatch-620746343a4bc84a9dab2618f48e5a3e79c58a80/butterclient-620746343a4bc84a9dab2618f48e5a3e79c58a80.bpatch",
+    "sha256": "01b42b5036d67fc60846f7179548ef744eb93f60ce3496e2fbec69381f6dd2f8"
   }
 }
