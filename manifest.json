@@ -1,19 +1,19 @@
 {
   "formatVersion": 2,
   "gameVersion": "26.2",
-  "clientVersion": "a16f74cc18dc3345925e4770b606a67d650c7676",
-  "date": "2026-08-09T00:39:07Z",
+  "clientVersion": "afd8fc71c742af41279aedb4d32ebc9324385fe6",
+  "date": "2026-08-09T09:01:41Z",
   "patch": {
-    "version": "a16f74cc18dc3345925e4770b606a67d650c7676",
-    "sourceHash": "982853286a361efd61e821d91636ec8348b995fb6bab538c0890d11531a0dd0c",
-    "url": "https://github.com/ButterClient/releases/releases/download/butter-a16f74cc18dc3345925e4770b606a67d650c7676/butterclient-a16f74cc18dc3345925e4770b606a67d650c7676.bpatch",
-    "sha256": "249943cb7b23be1765a9ace0d83ed8d33aac2356a33969b9a30d2586e52b2b95"
+    "version": "afd8fc71c742af41279aedb4d32ebc9324385fe6",
+    "sourceHash": "47c66b1c06cd90eeb89af39d11ca47b2ed30451f334a96c7386a1dd2f234afc0",
+    "url": "https://github.com/ButterClient/releases/releases/download/butter-afd8fc71c742af41279aedb4d32ebc9324385fe6/butterclient-afd8fc71c742af41279aedb4d32ebc9324385fe6.bpatch",
+    "sha256": "4be0807ee9cbef0e59bffa535b8c16ebf778a70efebf391b0e6f86fb71a53395"
   },
   "frontend": {
-    "version": "a16f74cc18dc3345925e4770b606a67d650c7676",
-    "sourceHash": "1153236a1003b37f4b21996422443ad593cddee9649942b9abd2c66805131b64",
-    "url": "https://github.com/ButterClient/releases/releases/download/butter-a16f74cc18dc3345925e4770b606a67d650c7676/frontend-a16f74cc18dc3345925e4770b606a67d650c7676.pack",
-    "sha256": "6319cd3cdd2b0caef791a017cf089ce8208544017d744b20f8db436ae9e5c463"
+    "version": "afd8fc71c742af41279aedb4d32ebc9324385fe6",
+    "sourceHash": "8f50e34ec04a1cd369758955be12c71efea9a349ff38b33ef1b966e2078a6a6a",
+    "url": "https://github.com/ButterClient/releases/releases/download/butter-afd8fc71c742af41279aedb4d32ebc9324385fe6/frontend-afd8fc71c742af41279aedb4d32ebc9324385fe6.pack",
+    "sha256": "04a91ca1273a7fc714ff296d04f1fa918e19db29e155136e917c948f85d533fc"
   },
   "luau": {
     "version": "0.733",
