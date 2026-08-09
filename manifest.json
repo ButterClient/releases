@@ -1,10 +1,33 @@
 {
-  "formatVersion": 1,
-  "gameVersion": "1.21.11",
-  "clientVersion": "40cfb8a9851c1ddf85dc8dfa95c11814acbc4f24",
-  "date": "2026-08-08T19:07:46Z",
+  "formatVersion": 2,
+  "gameVersion": "26.2",
+  "clientVersion": "893027f0bfe0bd01bd6f1eb56f80b63bda9f7e83",
+  "date": "2026-08-09T00:01:08Z",
   "patch": {
-    "url": "https://github.com/ButterClient/releases/releases/download/bpatch-40cfb8a9851c1ddf85dc8dfa95c11814acbc4f24/butterclient-40cfb8a9851c1ddf85dc8dfa95c11814acbc4f24.bpatch",
-    "sha256": "896f7eadd1f241efbf24e130db6f5fd1bfc4d6347194fe40d9e3c4e38160a79d"
+    "version": "893027f0bfe0bd01bd6f1eb56f80b63bda9f7e83",
+    "sourceHash": "8eb0d4de46e0246d0b2107ac62abc96963b9df2d4fe79b276e01b9577adada76",
+    "url": "https://github.com/ButterClient/releases/releases/download/butter-893027f0bfe0bd01bd6f1eb56f80b63bda9f7e83/butterclient-893027f0bfe0bd01bd6f1eb56f80b63bda9f7e83.bpatch",
+    "sha256": "60014c89bf943d11d173f6ba72433afa943d437ee04052b71c157b602ea2ea1c"
+  },
+  "frontend": {
+    "version": "893027f0bfe0bd01bd6f1eb56f80b63bda9f7e83",
+    "sourceHash": "e4cc8ed02bc3ff0eb6560fe2af1cc6f4e94888eb2ced66b8215a8224ff7db8b6",
+    "url": "https://github.com/ButterClient/releases/releases/download/butter-893027f0bfe0bd01bd6f1eb56f80b63bda9f7e83/frontend-893027f0bfe0bd01bd6f1eb56f80b63bda9f7e83.pack",
+    "sha256": "c0f0d727aed6a49179c05bceabda6cf9e6b52383e7e51bb2db19d87a9b89e967"
+  },
+  "luau": {
+    "version": "0.733",
+    "abi": 2,
+    "sourceHash": "d75a06fdd2952b084450bf0a4895847645f699bef133e356d8011f463d05d325",
+    "platforms": {
+      "windows-x86_64": {
+        "url": "https://github.com/ButterClient/releases/releases/download/butter-893027f0bfe0bd01bd6f1eb56f80b63bda9f7e83/butter_luau-windows-x86_64-893027f0bfe0bd01bd6f1eb56f80b63bda9f7e83.dll",
+        "sha256": "42fbb9e81acc2b6745339beaad3d2c7699ecae923939704573eb0853fba6e2e6"
+      },
+      "linux-x86_64": {
+        "url": "https://github.com/ButterClient/releases/releases/download/butter-893027f0bfe0bd01bd6f1eb56f80b63bda9f7e83/libbutter_luau-linux-x86_64-893027f0bfe0bd01bd6f1eb56f80b63bda9f7e83.so",
+        "sha256": "4a5fdd3a29cfb72635686e321a258b18bbc6f1ab04ec3756f8fd94d0ee07225f"
+      }
+    }
   }
 }
