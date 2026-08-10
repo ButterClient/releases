@@ -1,32 +1,47 @@
 {
-  "formatVersion": 2,
+  "formatVersion": 3,
   "gameVersion": "26.2",
-  "clientVersion": "3fc38f39ae5fb7a0973a16aff9fa23bc939eb85c",
-  "date": "2026-08-09T14:06:30Z",
+  "clientVersion": "14eecc15abda0f488b34f1d7b65d8a4c8e664366",
+  "date": "2026-08-10T10:11:07Z",
   "patch": {
-    "version": "3fc38f39ae5fb7a0973a16aff9fa23bc939eb85c",
-    "sourceHash": "099dad68177685e5ede10169c5512c39337ec157c99a365c487bedf87b71ba8f",
-    "url": "https://github.com/ButterClient/releases/releases/download/butter-3fc38f39ae5fb7a0973a16aff9fa23bc939eb85c/butterclient-3fc38f39ae5fb7a0973a16aff9fa23bc939eb85c.bpatch",
-    "sha256": "65eb4d73ac6f41543e53affc96bb5069a242eb124f18b0b080c7c953cd36a0c1"
+    "version": "14eecc15abda0f488b34f1d7b65d8a4c8e664366",
+    "sourceHash": "c523db7cb32b2732af1e74eef5f2e06d85ae877c2801aa5b81cb870adcfc5400",
+    "url": "https://github.com/ButterClient/releases/releases/download/butter-14eecc15abda0f488b34f1d7b65d8a4c8e664366/butterclient-14eecc15abda0f488b34f1d7b65d8a4c8e664366.bpatch",
+    "sha256": "fbc35bcc03b55b0904aefefa1cd670840b93f3dbbc60d549f245b3ac9195c90b"
   },
   "frontend": {
-    "version": "3fc38f39ae5fb7a0973a16aff9fa23bc939eb85c",
-    "sourceHash": "180ac9233135b8436eff02f8827b49f884acc349fbf58cac1799f7e1ee7a0fb1",
-    "url": "https://github.com/ButterClient/releases/releases/download/butter-3fc38f39ae5fb7a0973a16aff9fa23bc939eb85c/frontend-3fc38f39ae5fb7a0973a16aff9fa23bc939eb85c.pack",
-    "sha256": "fcc87e95ea55055e16a3883afa7d580539e5c23e6170d277ecb84d5b84b63b5f"
+    "version": "14eecc15abda0f488b34f1d7b65d8a4c8e664366",
+    "sourceHash": "b62963e71365d2db36c1bed1c908095868a06587256bcf1565ddc3aa792386db",
+    "url": "https://github.com/ButterClient/releases/releases/download/butter-14eecc15abda0f488b34f1d7b65d8a4c8e664366/frontend-14eecc15abda0f488b34f1d7b65d8a4c8e664366.pack",
+    "sha256": "412e494ffdcdb441c06b14a148e21c13c268b3ff73ed4efb126e6ba9899be9ae"
   },
   "luau": {
     "version": "0.733",
-    "abi": 3,
-    "sourceHash": "ba9993596fd504fb872d1313cf2f59666502920983737a78457e7f8edc99e68c",
+    "abi": 4,
+    "sourceHash": "fa143b1416062699c884d973358712c3af285b3c9d4b3b04f413ba62942a4713",
     "platforms": {
       "windows-x86_64": {
-        "url": "https://github.com/ButterClient/releases/releases/download/butter-f5f5272101b22ad52a994cf95d4f028e7f521f2f/butter_luau-windows-x86_64-f5f5272101b22ad52a994cf95d4f028e7f521f2f.dll",
-        "sha256": "c8f8e5af6d3d060a902bdd10e6fc10dcb39be2f011e9d68de1b5cd3abf652182"
+        "url": "https://github.com/ButterClient/releases/releases/download/butter-14eecc15abda0f488b34f1d7b65d8a4c8e664366/butter_luau-windows-x86_64-14eecc15abda0f488b34f1d7b65d8a4c8e664366.dll",
+        "sha256": "f4a98d5de0f2fb16b053c4c9cb07f59e54eeba81b3b6587e7bf3adc56efb087d"
       },
       "linux-x86_64": {
-        "url": "https://github.com/ButterClient/releases/releases/download/butter-f5f5272101b22ad52a994cf95d4f028e7f521f2f/libbutter_luau-linux-x86_64-f5f5272101b22ad52a994cf95d4f028e7f521f2f.so",
-        "sha256": "598d83d8e7e11f4a0589b48e3862e16d4e835f52437ff78a7f13a353460e3f88"
+        "url": "https://github.com/ButterClient/releases/releases/download/butter-14eecc15abda0f488b34f1d7b65d8a4c8e664366/libbutter_luau-linux-x86_64-14eecc15abda0f488b34f1d7b65d8a4c8e664366.so",
+        "sha256": "3a0ccff1f44fe6101d772805e076eb882dcdbda03047507a23170f2617a4bd6b"
+      }
+    }
+  },
+  "taffy": {
+    "version": "0.1.0",
+    "abi": 1,
+    "sourceHash": "31c928e29c066eb52a9b6ee2537480e15d82a66f634720bdf71a7f862d243092",
+    "platforms": {
+      "windows-x86_64": {
+        "url": "https://github.com/ButterClient/releases/releases/download/butter-14eecc15abda0f488b34f1d7b65d8a4c8e664366/butter_taffy-windows-x86_64-14eecc15abda0f488b34f1d7b65d8a4c8e664366.dll",
+        "sha256": "3fe003ee40aac3f7037a696f835ea6f31ce92f1ee1ab9e838896a674a0a47e5c"
+      },
+      "linux-x86_64": {
+        "url": "https://github.com/ButterClient/releases/releases/download/butter-14eecc15abda0f488b34f1d7b65d8a4c8e664366/libbutter_taffy-linux-x86_64-14eecc15abda0f488b34f1d7b65d8a4c8e664366.so",
+        "sha256": "f484f1de2a157ea9444d98949605947c13f2e8c70188366d785540a4f7e83ec0"
       }
     }
   }
