@@ -1,8 +1,8 @@
 {
   "formatVersion": 4,
   "gameVersion": "26.2",
-  "clientVersion": "f1935364db0ca77ffc22de2977f453478a475fef",
-  "date": "2026-08-14T13:18:40Z",
+  "clientVersion": "a87a617ddcdc4e595cacb8f342b6bc560bc84f2b",
+  "date": "2026-08-15T16:59:25Z",
   "frontend": {
     "version": "a0c910d356dffa40f54ba0b39a2fbf0d8bc4f884",
     "sourceHash": "72b148a8fb31e6b8c109c5c9340747fd2a0c8a4d8ffea69fbc6faa7deea7a077",
@@ -52,19 +52,19 @@
     "26.2": {
       "type": "release",
       "patch": {
-        "version": "f1935364db0ca77ffc22de2977f453478a475fef",
-        "sourceHash": "381a2138f866d13485b07788ac26e3c46d2994a45ff288cf5504a0e4f8c4c004",
-        "url": "https://github.com/ButterClient/releases/releases/download/butter-f1935364db0ca77ffc22de2977f453478a475fef/butterclient-26.2-f1935364db0ca77ffc22de2977f453478a475fef.bpatch",
-        "sha256": "2a6da08426d6c8153b8c64e6e1cd3329ac5d0083c7b7b19ca321394a821b71fc"
+        "version": "a87a617ddcdc4e595cacb8f342b6bc560bc84f2b",
+        "sourceHash": "3ebc9b51a0c09bd19df2d7b69c07887ec167ab40ca6ebc4e3ad461eada1445fe",
+        "url": "https://github.com/ButterClient/releases/releases/download/butter-a87a617ddcdc4e595cacb8f342b6bc560bc84f2b/butterclient-26.2-a87a617ddcdc4e595cacb8f342b6bc560bc84f2b.bpatch",
+        "sha256": "17afac5d0e200206bad73ae6a24f0051110ca65410a405b43a861a12666ef5bb"
       }
     },
     "26.3-snapshot-8": {
       "type": "snapshot",
       "patch": {
-        "version": "f1935364db0ca77ffc22de2977f453478a475fef",
-        "sourceHash": "381a2138f866d13485b07788ac26e3c46d2994a45ff288cf5504a0e4f8c4c004",
-        "url": "https://github.com/ButterClient/releases/releases/download/butter-f1935364db0ca77ffc22de2977f453478a475fef/butterclient-26.3-snapshot-8-f1935364db0ca77ffc22de2977f453478a475fef.bpatch",
-        "sha256": "a4bc1b5192ddf7e5331fe73718cd6d82c608bf92449055d6d7ed3de9f7c284f8"
+        "version": "a87a617ddcdc4e595cacb8f342b6bc560bc84f2b",
+        "sourceHash": "3ebc9b51a0c09bd19df2d7b69c07887ec167ab40ca6ebc4e3ad461eada1445fe",
+        "url": "https://github.com/ButterClient/releases/releases/download/butter-a87a617ddcdc4e595cacb8f342b6bc560bc84f2b/butterclient-26.3-snapshot-8-a87a617ddcdc4e595cacb8f342b6bc560bc84f2b.bpatch",
+        "sha256": "77d1d867b140a2c4fe554e62050c4754c0dacb1888d64e3cd5f0388c26a40eaf"
       }
     }
   }
